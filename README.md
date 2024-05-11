@@ -4,7 +4,9 @@ This is not even Responsive for every screen,   it's fit for 1440px,
 
 And It's created using React.js for Client and Express.js for Server..
 
-# You Will not Get Data From database on given link,  So please clone Repo. and run
+# You Will not Get Data From database on given link,  So please clone Repo. and run from your System.
+
+# you can go in dashboard and can Insert data and edit and delete,  so for visiting dashboard use "/dashboard" ; 
 
 # Getting Started with Create React App
 
