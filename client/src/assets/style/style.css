@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero_background {
+  background-image: url("../images/heroback.jpg");
+  background-size: cover;
+  text-align: center;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 30rem;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.hero_text {
+  background-color: transparent;
+  background-color: transparent;
+  color: rgb(183, 24, 24);
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.collection_Hero {
+  height: 20rem;
+  background-image: url("../images/FoodOffers.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
