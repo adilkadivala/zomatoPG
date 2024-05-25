@@ -12,7 +12,7 @@ const hotelList = require("./routers/hotel");
 const corsOptions = {
   credentials: true,
   methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
-  origin: "https://zometoPG.vercel.app",
+  origin: "http://localhost:3000",
   allowedHeaders: ["Content-Type", "Authorization"],
 };
 
